@@ -1,7 +1,7 @@
 ---
 new_page_extension: html
 auto_deploy: false
-admin_path: https://swiftsell.vercel.app/admin
+admin_path: https://madewithrelume.github.io/swiftsell/admin
 webhook_url: 
 sections:
 - type: heading
